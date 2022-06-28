@@ -8,7 +8,7 @@ public class DiscordRP
 {
     public void start() {
         DiscordRPC discord = DiscordRPC.INSTANCE;
-        String appID = "990293566276382780";
+        String appID = "";
         String steamID = "";
 
         DiscordEventHandlers handlers = new DiscordEventHandlers();
